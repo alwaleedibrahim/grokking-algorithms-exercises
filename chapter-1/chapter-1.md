@@ -21,4 +21,5 @@
     - O(n)
 ## Exercise 1.6 
 - You want to read the numbers of just the As. (This is a tricky one! It involves concepts that are covered more in chapter 4. Read the answer—you may be surprised!)
-    - My initial answer for this question before reading chapter 4 is O(n), because the number of As is dependent on the number of the whole phone book. So as the size of the book grows up, the As also grow up making run time of this scenario O(n)
+    - My initial answer for this question before reading chapter 4 was O(n), because the number of As is dependent on the number of the whole phone book. So as the size of the book grows, the As also grow, making the run time of this scenario O(n).
+    - Revisited after reading chapter 4. My initial answer is right, but I can now express it more precisely. We can assume that the number of As is 1/26 of the total number of names in the book and hence O(1/26 * n) is equal to O(n) because constants don’t really matter in big O notation.

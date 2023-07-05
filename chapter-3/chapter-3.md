@@ -1,4 +1,4 @@
-# Grokking Algorithms - Chapter 2
+# Grokking Algorithms - Chapter 3
 
 ## Exercise 3.1 
 - Suppose I show you a call stack like this. What information can you give me, just based on this call stack? 

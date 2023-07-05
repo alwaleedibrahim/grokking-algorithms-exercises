@@ -1,4 +1,4 @@
-# Grokking Algorithms - Chapter 2
+# Grokking Algorithms - Chapter 4
 
 ## Exercise 4.1 
 - Write out the code for the earlier sum function.
